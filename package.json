@@ -1,0 +1,22 @@
+{
+  "name": "gtools",
+  "version": "1.0.0",
+  "description": "General tools of javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woaiyan/gtools.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "2422400672@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woaiyan/gtools/issues"
+  },
+  "homepage": "https://github.com/woaiyan/gtools#readme"
+}
